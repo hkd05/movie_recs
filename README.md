@@ -1,6 +1,7 @@
 # Movie Recommendation System
 
-Movie recommender using the MovieLens (small) dataset, includes a user search box/widget
+* Movie recommender using the MovieLens small dataset
+* Includes a user search box/widget
 
 ## Files:
 **movie_recs.py** - code, originally written using Google Colab <br>
